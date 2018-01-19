@@ -1,0 +1,32 @@
+{
+    "id": "1",
+    "title": "GATE",
+    "description": "The Graduate Aptitude Test in Engineering (GATE) is an examination that primarily tests the comprehensive understanding of various undergraduate subjects in engineering and science. GATE is conducted jointly by the Indian Institute of Science and seven Indian Institutes of Technology Roorkee, Delhi, Guwahati, Kanpur, Kharagpur, and Bombay) on behalf of the National Coordination Board – GATE, Department of Higher Education, Ministry of Human Resources Development (MHRD), Government of India.",
+    "bundleType": "PAID",
+    "cost": 1500,
+    "currency": "in",
+    "paid": true,
+    "coupon": {
+      "code": "FFTL23",
+      "status": "AVAIL",
+      "validity": 1800000
+    },
+    "questionPapers": [
+      {
+        "id": "trail_test_1",
+        "description": "The GATE score of a candidate reflects the relative performance level of a candidate.",
+        "totalScore": "60",
+        "duration": 1800000,
+        "numberOfQuestions": 15,
+        "paperType": "FREE"
+      },
+      {
+        "id": "test_1",
+        "description": "The GATE score of a candidate reflects the relative performance level of a candidate.",
+        "totalScore": "60",
+        "duration": 1800000,
+        "numberOfQuestions": 15,
+        "paperType": "PAID"
+      }
+    ]
+  }
